@@ -176,7 +176,7 @@ input[type=submit]:hover {
 }
 
 body {
-    background-color: #fff8de;
+    background-color: #fff9f0;
     animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
