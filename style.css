@@ -27,7 +27,7 @@
   filter: grayscale(1);
 }
 
-.circle{
+.circle .overlay{
   height: 15px;
   width: 15px;
   background-color: #ff4242;
@@ -178,7 +178,6 @@ body {
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
     font-family: monospace;
-    margin-left: 12px;
 }
 @keyframes fadeInAnimation {
     0% {
