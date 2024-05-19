@@ -8,6 +8,15 @@
   margin-left: 12px;
 }
 
+.Siedd {
+  width: 70px;
+  display: inline-block;
+  margin-left: 12px;
+  filter: grayscale(1);
+  height: 70px;
+
+}
+
 .cat {
   text-align: center;
   text-decoration-style: wavy;
@@ -18,15 +27,6 @@
 
 .footer {
   text-align: center;
-}
-
-.Siedd {
-  width: 80px;
-  display: inline-block;
-  margin-left: 12px;
-  filter: grayscale(1);
-  height: 70px;
-
 }
 
 .circle {
