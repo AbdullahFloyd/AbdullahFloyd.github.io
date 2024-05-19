@@ -25,6 +25,8 @@
   display: inline-block;
   margin-left: 12px;
   filter: grayscale(1);
+  height: 70px;
+
 }
 
 .circle {
