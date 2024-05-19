@@ -176,7 +176,7 @@ body {
     animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:Verdana;
 }
 @keyframes fadeInAnimation {
     0% {
