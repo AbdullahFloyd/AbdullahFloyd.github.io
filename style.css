@@ -178,7 +178,7 @@ body {
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
     font-family: monospace;
-    margin: auto;
+    margin-left: 12px;
 }
 @keyframes fadeInAnimation {
     0% {
