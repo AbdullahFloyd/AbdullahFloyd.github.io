@@ -192,12 +192,14 @@ body {
 
 .Gallery {
   display: flex;
-  width: 200px;
+  max-width: 1200px;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 .g1 {
-  width: 200;
-  
+  width: 200px;
+  object-fit: cover;
 }
 
 
