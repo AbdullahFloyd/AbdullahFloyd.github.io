@@ -192,6 +192,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  color: #ff4242;
+
 }
 
 .g1 {
@@ -203,7 +205,6 @@ body {
 
 .ga2{
   align-left: auto;
-  color: #ff4242;
 }
 
 
