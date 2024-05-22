@@ -195,6 +195,8 @@ body {
   max-width: 1200px;
   width: 100%;
   flex-wrap: wrap;
+  margin-left: 12px;
+  padding: 1.8px;
 }
 
 .g1 {
