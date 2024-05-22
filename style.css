@@ -192,7 +192,7 @@ body {
 
 .gallery{
   display: flex;
-
+  max-width: 200px;
 }
 
 
