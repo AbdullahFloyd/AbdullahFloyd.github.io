@@ -188,20 +188,17 @@ body {
     }
 }
 
-
 .Gallery {
   display: flex;
-  max-width: 1200px;
-  width: 100%;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 18px;
 }
 
 .g1 {
+  max-height: 300px;
   max-width: 300px;
   object-fit: cover;
-  padding: 6px;
+  padding: 10px;
 }
 
 
