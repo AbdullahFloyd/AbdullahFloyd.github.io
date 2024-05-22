@@ -190,9 +190,14 @@ body {
 
 
 
-.gallery{
+.Gallery {
   display: flex;
   width: 200px;
+}
+
+.g1 {
+  width: 200;
+  
 }
 
 
