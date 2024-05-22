@@ -189,19 +189,19 @@ body {
 }
 
 
-
 .Gallery {
   display: flex;
   max-width: 1200px;
   width: 100%;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 1.8px;
+  padding: 18px;
 }
 
 .g1 {
-  width: 200px;
+  max-width: 300px;
   object-fit: cover;
+  padding: 6px;
 }
 
 
